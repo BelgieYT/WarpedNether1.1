@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warpednether:warped_wheat"
+    },
+    {
+      "item": "warpednether:warped_wheat"
+    },
+    {
+      "item": "warpednether:warped_wheat"
+    }
+  ],
+  "result":
+  {
+    "item": "warpednether:warped_bread",
+    "count": 1
+  }
+}
+

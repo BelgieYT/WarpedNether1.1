@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "warpednether:warped_huitlacoche"
+  },
+  "result": "warpednether:warped_corn",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warpednether:overwarped_logs"
+    }
+  ],
+  "result":
+  {
+    "item": "warpednether:overwarped_planks",
+    "count": 4
+  }
+}

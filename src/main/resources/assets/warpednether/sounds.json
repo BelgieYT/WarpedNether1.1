@@ -1,0 +1,33 @@
+{
+  "entity.dbtw_entity.ambient": {
+    "category": "entity",
+    "subtitle": "entity.dbtw_entity.ambient",
+    "sounds": [
+      {
+        "name": "warpednether:entity/entity.dbtw_entity.ambient",
+        "stream": true
+      }
+    ]
+  },
+  "entity.dbtw_entity.death": {
+    "category": "entity",
+    "subtitle": "entity.dbtw_entity.death",
+    "sounds": [
+      {
+        "name": "warpednether:entity/entity.dbtw_entity.death",
+        "stream": true
+      }
+    ]
+  },
+
+  "entity.dbtw_entity.hurt": {
+    "category": "entity",
+    "subtitle": "entity.dbtw_entity.hurt",
+    "sounds": [
+      {
+        "name": "warpednether:entity/entity.dbtw_entity.hurt",
+        "stream": true
+      }
+    ]
+  }
+}

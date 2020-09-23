@@ -1,0 +1,71 @@
+
+{
+"multipart": [
+{
+"when": {
+"up": "true"
+},
+"apply": {
+"model": "warpednether:block/quartz_wall_post"
+}
+},
+{
+"when": {
+"north": "low"
+},
+"apply": {
+"model": "warpednether:block/quartz_wall_side",
+"uvlock": true
+}
+},
+{
+"when": {
+"east": "low"
+},
+"apply": {
+"model": "warpednether:block/quartz_wall_side",
+"y": 90,
+"uvlock": true
+}
+},
+{
+"when": {
+"south": "low"
+},
+"apply": {
+"model": "warpednether:block/quartz_wall_side",
+"y": 180,
+"uvlock": true
+}
+},
+{
+"when": {
+"west": "low"
+},
+"apply": {
+"model": "warpednether:block/quartz_wall_side",
+"y": 270,
+"uvlock": true
+}
+},
+{
+"when": {
+"north": "tall"
+},
+"apply": {
+"model": "warpednether:block/quartz_wall_side",
+"uvlock": true
+}
+},
+{
+"when": {
+"east": "tall"
+},
+"apply": {
+"model": "warpednether:block/quartz_wall_side",
+"y": 90,
+"uvlock": true
+}
+},
+]
+}

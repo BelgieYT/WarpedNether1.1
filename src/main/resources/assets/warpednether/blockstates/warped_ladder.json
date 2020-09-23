@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "warpednether:block/warped_ladder" },
+    "facing=east":  { "model": "warpednether:block/warped_ladder", "y": 90 },
+    "facing=south": { "model": "warpednether:block/warped_ladder", "y": 180 },
+    "facing=west":  { "model": "warpednether:block/warped_ladder", "y": 270 }
+  }
+}

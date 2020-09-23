@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "warpednether:warped_wart"
+  },
+  "result": "warpednether:warped_dye",
+  "experience": 0.5,
+  "cookingtime": 165
+}

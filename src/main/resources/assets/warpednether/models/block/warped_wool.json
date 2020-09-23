@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "warpednether:blocks/warped_wool"
+  }
+}

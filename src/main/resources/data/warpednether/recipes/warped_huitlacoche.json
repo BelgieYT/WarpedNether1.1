@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warpednether:warped_wart"
+    },
+    {
+      "item": "warpednether:warped_wart"
+    },
+    {
+      "item": "warpednether:warped_wart"
+    },
+    {
+      "item": "warpednether:warped_wart"
+    }
+  ],
+  "result":
+  {
+    "item": "warpednether:warped_huitlacoche",
+    "count": 1
+  }
+}

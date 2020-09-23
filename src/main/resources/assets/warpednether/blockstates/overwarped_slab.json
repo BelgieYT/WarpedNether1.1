@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": {"model": "warpednether:block/overwarped_slab"},
+    "type=double": {"model": "warpednether:block/overwarped_planks"},
+    "type=top": {"model": "warpednether:block/overwarped_slab_top"}
+  }
+}

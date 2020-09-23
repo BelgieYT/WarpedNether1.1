@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warpednether:overwarped_planks"
+    },
+    {
+      "item": "warpednether:overwarped_planks"
+    }
+  ],
+  "result":
+  {
+    "item": "warpednether:overwarped_pressureplate",
+    "count": 1
+  }
+}

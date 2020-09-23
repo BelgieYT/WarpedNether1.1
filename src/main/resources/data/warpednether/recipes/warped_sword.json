@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " d ",
+    " d ",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "warpednether:warped_stick"
+},
+       "d":
+          {
+            "item": "warpednether:warped_shard"
+    }
+  },
+  "result":
+  {
+    "item": "warpednether:warped_sword",
+    "count": 1
+  }
+}

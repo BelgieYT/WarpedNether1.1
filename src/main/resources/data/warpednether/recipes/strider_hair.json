@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warpednether:strider_hair"
+    },
+    {
+      "item": "warpednether:strider_hair"
+    },
+    {
+      "item": "warpednether:strider_hair"
+    },
+    {
+      "item": "warpednether:strider_hair"
+    }
+  ],
+  "result":
+  {
+    "item": "warpednether:warped_wool",
+    "count": 1
+  }
+}

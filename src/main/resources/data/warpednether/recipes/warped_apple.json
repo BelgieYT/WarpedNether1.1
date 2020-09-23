@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xDx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "warpednether:warped_wart"
+    },
+    "D":
+    {
+      "item": "minecraft:apple"
+    }
+  },
+    "result": {
+      "item": "warpednether:warped_apple",
+      "count": 1
+    }
+  }

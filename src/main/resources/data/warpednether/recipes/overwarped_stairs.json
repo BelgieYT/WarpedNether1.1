@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x  ",
+    "xx ",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "warpednether:overwarped_planks"
+},
+
+  "result":
+  {
+    "item": "warpednether:overwarped_stairs",
+    "count": 4
+  }
+}
+}

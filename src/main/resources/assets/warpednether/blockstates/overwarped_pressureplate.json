@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "warpednether:block/overwarped_pressureplate"
+    },
+    "powered=true": {
+      "model": "warpednether:block/overwarped_pressureplate_down"
+    }
+  }
+}

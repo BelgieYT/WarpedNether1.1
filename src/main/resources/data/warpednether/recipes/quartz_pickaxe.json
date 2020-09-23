@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ddd",
+    " x ",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "warpednether:warped_stick"
+},
+       "d":
+          {
+            "item": "minecraft:quartz_block"
+    }
+  },
+  "result":
+  {
+    "item": "warpednether:quartz_pickaxe",
+    "count": 1
+  }
+}
